@@ -48,6 +48,7 @@ C# • API REST • Entity Framework • Scrum • JavaScript
     Experiência:
 
 Logo da empresa Federação Paulista de Futebol
+
 Desenvolvedor de back end
 
 Federação Paulista de Futebol · Tempo integral
@@ -55,6 +56,9 @@ Federação Paulista de Futebol · Tempo integral
 mai. de 2025 - o momento · 1 ano 6 meses
 
 São Paulo, Brasil · No local
+
+Atuo fazendo manutenções em sistema legados como .Net Framework com Entity Framework e arquitetura MVC, Também trabalho em .Net 5 e .Net 8 com Clean Architecture, implemento de gestão de cobranças e fluxos integrados entre nossas APIs para atender as necessidades dos departamentos internos da FPF com a preocupação de manter retrocompatibilidade com o ecossistema antigos como VB.NET e o .Net Framework. Além disso mais recentemente estamos migrando para um monólito com objetivo de equalizar todas as APIs para .Net 8 LTS e cumprir princípios de desenvolvimento do Dry (Don't Repeat Yourself), mantendo consistentes as versões de componentes usados e principalmente centralizando nossos regras de negócio. Além de tudo, pós migração seguir refatoração de códigos de Infringem o SOLID para melhor desacoplamento, matendo o código limpo, de fácil manutenção e flexíveis.
+Outra funcionalidade interessante que estou atuando seria um formulário dinâmicos e modular para uso interno e externo da FPF, com isso viabilizando o recolhimento de informações dos Clubes externos, o uso em processos seletivos e até a comunicação de interna entre departamentos.
 
 ----------------------------------------------
 
